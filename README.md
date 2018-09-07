@@ -1,0 +1,2 @@
+# lutfisafelink
+safelink
